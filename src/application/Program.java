@@ -8,6 +8,7 @@ import model.entities.CarRental;
 import model.entities.Vehicle;
 import model.services.BrazilTaxService;
 import model.services.RentalService;
+import model.services.TaxService;
 
 public class Program {
     public static void main(String[] args) throws ParseException {
